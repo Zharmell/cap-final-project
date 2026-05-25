@@ -3,6 +3,11 @@ body {
   margin: 0;
   padding: 20px;
 
+  p {
+  font-size: 21px;
+  line-height: 1.6;
+}
+
   background-image: url("background.jpg");
   background-size: cover;
   background-position: center;
