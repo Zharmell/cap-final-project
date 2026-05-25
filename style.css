@@ -2,11 +2,7 @@ body {
   font-family: Arial;
   margin: 0;
   padding: 20px;
-
-  p {
-  font-size: 21px;
-  line-height: 1.6;
-}
+  font-size: 19px;
 
   background-image: url("background.jpg");
   background-size: cover;
@@ -67,7 +63,7 @@ li {
 img {
   border-radius: 10px;
   width: 100%;
-  max-width: 400px;
+  max-width: 2000px;
   display: block;
   box-shadow: 5px 5px 10px black;
   margin-bottom: 20px;
