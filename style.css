@@ -69,8 +69,17 @@ img {
   margin-bottom: 20px;
 }
 
+.about-page img {
+  max-width: 600px;
+}
+
 iframe {
   margin-top: 20px;
   border-radius: 10px;
   max-width: 100%;
+}
+
+.meImage{
+  height: 200px;
+  width: 100px;
 }
